@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @DilermeGNS
-- 👀 I’m interested in JAVASCRIPT
-- 🌱 I’m currently learning java, python, javascript, html, css
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java, c# and JavaScript;
+
 - 📫 How to reach me 
-email
+INSTAGRAM: guilherme_fya
 : 
 
 <!---
