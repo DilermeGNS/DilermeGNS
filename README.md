@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DilermeGNS
 - 🌱 I’m currently learning java, c# and JavaScript;
 
-- 📫 How to reach me 
+
 INSTAGRAM: guilherme_fya
 : 
 
