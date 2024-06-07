@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning java, c# and JavaScript;
 
 
-INSTAGRAM: guilherme_fya
+INSTAGRAM: guinunesssoares
 : 
 
 <!---
