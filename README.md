@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @DilermeGNS
-- 🌱 I’m currently learning java, c# and JavaScript;
+- Guilherme Nunes Soares
+- 🌱 I’m currently working on some college and personal projects.
 
 
 INSTAGRAM: guinunesssoares
-: 
 
-<!---
-DilermeGNS/DilermeGNS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
 
